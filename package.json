@@ -1,0 +1,31 @@
+{
+  "name": "package_tracker",
+  "version": "1.0.0",
+  "description": "A simple package tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xanuthatusu/package_tracker.git"
+  },
+  "author": "Anthony George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xanuthatusu/package_tracker/issues"
+  },
+  "homepage": "https://github.com/Xanuthatusu/package_tracker#readme",
+  "dependencies": {
+    "@types/react": "^16.8.5",
+    "@types/react-dom": "^16.8.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333",
+    "webpack-cli": "^3.2.3"
+  }
+}
